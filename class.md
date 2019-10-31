@@ -1,0 +1,3 @@
+- name    : Fullstack Class
+- sesion  : 2
+- tanggal : 29 Oktober 2019
